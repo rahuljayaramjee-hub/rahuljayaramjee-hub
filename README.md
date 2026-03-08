@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Rahul jayaramjee 👋
 
-<!--
-**rahuljayaramjee-hub/rahuljayaramjee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer  
+💻 Currently learning Linux, Azure, Docker, and DevOps tools  
+📚 Practicing hands-on projects and documenting everything on GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I'm Learning
+- Linux
+- Microsoft Azure
+- Docker
+- Git & GitHub
+- CI/CD Concepts
+- Bash Scripting
+
+---
+
+## 📌 Current Focus
+- Building DevOps projects
+- Learning cloud infrastructure
+- Improving automation skills
+
+---
+
+## 🎯 Goal
+Become a job-ready DevOps Engineer by building real-world projects and strong practical knowledge.
+
+---
+
+## 📂 What you'll find on my GitHub
+- DevOps practice projects
+- Azure cloud setups
+- Docker container experiments
+- Linux command documentation
+
+---
+
+⭐ Consistency > Motivation. Building every day.
