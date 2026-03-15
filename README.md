@@ -14,6 +14,12 @@
 - CI/CD Concepts
 - Bash Scripting
 
+## 🧰 DevOps Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,linux,docker,kubernetes,python,bash,git,github,vscode" />
+</p>
+
 ---
 
 ## 📌 Current Focus
@@ -45,8 +51,3 @@ Become a job-ready DevOps Engineer by building real-world projects and strong pr
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
-## 🧰 DevOps Tools I Use
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure,linux,docker,kubernetes,python,bash,git,github,vscode" />
-</p>
