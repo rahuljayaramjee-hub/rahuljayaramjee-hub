@@ -37,3 +37,9 @@ Become a job-ready DevOps Engineer by building real-world projects and strong pr
 ---
 
 ⭐ Consistency > Motivation. Building every day.
+
+
+
+
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
