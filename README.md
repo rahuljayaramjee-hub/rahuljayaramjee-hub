@@ -13,6 +13,7 @@
 - Git & GitHub
 - CI/CD Concepts
 - Bash Scripting
+- python for automaton
 
 ## 🧰 DevOps Tools I Use
 
