@@ -41,6 +41,8 @@ Become a job-ready DevOps Engineer by building real-world projects and strong pr
 - Docker container experiments
 - python scripting for cloud automation
 - Linux command documentation
+- repos related to to my work
+- 
 
 ---
 
