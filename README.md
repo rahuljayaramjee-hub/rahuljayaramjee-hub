@@ -31,7 +31,8 @@
 ---
 
 ## 🎯 Goal
-Become a job-ready DevOps Engineer by building real-world projects and strong practical knowledge.
+build real-world projects and strong practical knowledge. and break things and find solutions
+
 
 ---
 
