@@ -1,7 +1,7 @@
 # Hi, I'm Rahul jayaramjee 👋
 
 🚀 Aspiring DevOps Engineer  
-💻 Currently learning Linux, Azure, Docker, and DevOps tools  
+💻 Currently learning Linux, Azure, Docker, python automation and DevOps tools  
 📚 Practicing hands-on projects and documenting everything on GitHub  
 
 ---
