@@ -39,6 +39,7 @@ build real-world projects and strong practical knowledge. and break things and f
 ## 📂 What you'll find on my GitHub
 - DevOps practice projects
 - Azure cloud setups
+- aws multicloud for better opportunity 
 - Docker container experiments
 - python scripting for cloud automation
 - Linux command documentation
