@@ -28,6 +28,7 @@
 - Learning cloud infrastructure
 - Improving automation skills
 - contexting with yaml scripting filing
+- terraform scripting
 
 ---
 
