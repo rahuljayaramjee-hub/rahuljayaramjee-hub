@@ -1,4 +1,5 @@
 # Hi, I'm Rahul jayaramjee 👋
+📑aspiring azure cloud devosp 
 💻 Currently learning Linux, Azure, Docker, python automation and DevOps tools  
 📚 Practicing hands-on projects and documenting everything on GitHub  
 
