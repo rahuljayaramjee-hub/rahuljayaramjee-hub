@@ -1,14 +1,15 @@
 # Hi, I'm Rahul jayaramjee 
-📑aspiring azure cloud devosp 
-💻 Currently learning Linux, Azure, Docker, python automation and DevOps tools  
-📚 Practicing hands-on projects and documenting everything on GitHub 
-🔄 will be using both azure portal as well as aws amazon cloud
+- 📑aspiring azure cloud devosp 
+- 💻 Currently learning Linux, Azure, Docker, python automation and DevOps tools  
+- 📚 Practicing hands-on projects and documenting everything on GitHub 
+- 🔄 will be using both azure portal as well as aws amazon cloud
 
 ---
 
 ## 🔧 Technologies I'm Learning
 - Linux
 - Microsoft Azure
+- aws amazon web service
 - Docker
 - Git & GitHub
 - CI/CD Concepts
