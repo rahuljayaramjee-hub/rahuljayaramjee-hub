@@ -54,6 +54,8 @@ build real-world projects and strong practical knowledge. and break things and f
 
 ⭐ Consistency > Motivation. Building every day.
 
+email id verified ✅ 
+
 
 
 
