@@ -15,6 +15,8 @@
 - CI/CD Concepts
 - Bash Scripting
 - python for automaton
+- terraform
+- yaml scripting
 
 ## 🧰 DevOps Tools I Use
 
