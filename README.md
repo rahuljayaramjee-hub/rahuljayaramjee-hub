@@ -28,8 +28,8 @@
 
 ## 📌 Current Focus
 - Building DevOps projects
+ - Improving automation skill
 - Learning cloud infrastructure
-- Improving automation skills
 - contexting with yaml scripting filing
 - terraform scripting
 - aws portal
