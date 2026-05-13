@@ -33,6 +33,7 @@
 - contexting with yaml scripting filing
 - terraform scripting
 - aws portal
+- yaml
 
 ---
 
