@@ -3,6 +3,7 @@
 - 💻 Currently learning Linux, Azure, Docker, python automation and DevOps tools  
 - 📚 Practicing hands-on projects and documenting everything on GitHub 
 - 🔄 will be using both azure portal as well as aws amazon cloud
+- for scripting yaml,shell scripting and python 
 
 ---
 
