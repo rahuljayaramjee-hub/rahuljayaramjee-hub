@@ -15,7 +15,7 @@
 - Git & GitHub
 - CI/CD Concepts
 - Bash Scripting
-- python for automaton
+-  python foundation 
 - terraform
 - yaml scripting
 
