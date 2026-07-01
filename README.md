@@ -35,6 +35,7 @@
 - terraform scripting
 - aws portal
 - yaml
+- python scripting in foundation way
 
 ---
 
