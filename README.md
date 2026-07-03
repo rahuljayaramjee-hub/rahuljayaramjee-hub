@@ -60,8 +60,8 @@ build real-world projects and strong practical knowledge. and break things and f
 
 ⭐ Consistency > Motivation. Building every day.
  
-email id verified ✅ 
-
+email id verified ✅
+phoone number - 7659034726
 
 
 
