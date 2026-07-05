@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Technologies I'm Learning
+## 🔧 Technologies I'm Learning and adopting 
 - Linux
 - Microsoft Azure
 - aws amazon web service
