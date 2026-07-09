@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Technologies I'm Learning and adopting 
-- Linux
+- Linux foundation 
 - Microsoft Azure
 - aws amazon web service
 - Docker
