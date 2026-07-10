@@ -11,7 +11,7 @@
 - Linux foundation 
 - Microsoft Azure
 - aws amazon web service
-- Docker
+- Docker container
 - Git & GitHub
 - CI/CD Concepts
 - Bash Scripting
