@@ -19,7 +19,7 @@
 - terraform
 - yaml scripting
 
-## 🧰 DevOps Tools I Use
+## 🧰 DevOps Tools I Use for productvity 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=azure,linux,docker,kubernetes,python,bash,git,github,vscode" />
