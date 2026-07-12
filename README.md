@@ -53,8 +53,10 @@ build real-world projects and strong practical knowledge. and break things and f
 - python scripting for cloud automation
 - Linux command documentation
 - repos related to to my work
-- kubernetes and fundamentals 
-- 
+- kubernetes and fundamentals
+- breaking and troubleshooting 
+
+
 
 ---
 
