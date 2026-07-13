@@ -18,6 +18,7 @@
 -  python foundation 
 - terraform
 - yaml scripting
+- ai autopilot 
 
 ## 🧰 DevOps Tools I Use for productvity 
 
