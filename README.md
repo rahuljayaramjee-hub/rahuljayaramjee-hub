@@ -37,6 +37,7 @@
 - aws portal
 - yaml
 - python scripting in foundation way
+- ai agents to ease tasks
 
 ---
 
