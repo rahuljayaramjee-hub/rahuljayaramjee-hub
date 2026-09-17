@@ -1,4 +1,4 @@
-# Hi, jayaramjee rahul and this is my work realted to work 
+# Hi, jayaramjee rahul and this is my work realted to cloud devops and networking 
 - 📑aspiring azure cloud devosp 
 - 💻 Currently learning Linux, Azure, Docker, python automation and DevOps tools  
 - 📚 Practicing hands-on projects and documenting everything on GitHub 
